@@ -1,0 +1,92 @@
+Cover before Experimental shit: 240
+Cover after Experimental shit: 240
+Cover 240
+240
+class true 192 0.8
+class false 48 0.2
+true 1 1 0.421875
+true 1 2 0.578125
+true 2 1 0.822917
+true 2 2 0.177083
+true 3 1 0.625
+true 3 2 0.375
+true 4 1 0.822917
+true 4 2 0.177083
+true 5 1 0.807292
+true 5 2 0.192708
+false 1 1 0.708333
+false 1 2 0.291667
+false 2 1 0.645833
+false 2 2 0.354167
+false 3 1 0.3125
+false 3 2 0.6875
+false 4 1 0.958333
+false 4 2 0.0416667
+false 5 1 0
+false 5 2 1
+calculating performance on test data: record 241
+calculating performance on test data: record 242
+calculating performance on test data: record 243
+calculating performance on test data: record 244
+calculating performance on test data: record 245
+calculating performance on test data: record 246
+calculating performance on test data: record 247
+calculating performance on test data: record 248
+calculating performance on test data: record 249
+calculating performance on test data: record 250
+calculating performance on test data: record 251
+calculating performance on test data: record 252
+calculating performance on test data: record 253
+calculating performance on test data: record 254
+calculating performance on test data: record 255
+calculating performance on test data: record 256
+calculating performance on test data: record 257
+calculating performance on test data: record 258
+calculating performance on test data: record 259
+calculating performance on test data: record 260
+calculating performance on test data: record 261
+calculating performance on test data: record 262
+calculating performance on test data: record 263
+calculating performance on test data: record 264
+calculating performance on test data: record 265
+calculating performance on test data: record 266
+calculating performance on test data: record 267
+calculating performance on test data: record 268
+calculating performance on test data: record 269
+calculating performance on test data: record 270
+calculating performance on test data: record 271
+calculating performance on test data: record 272
+calculating performance on test data: record 273
+calculating performance on test data: record 274
+calculating performance on test data: record 275
+calculating performance on test data: record 276
+calculating performance on test data: record 277
+calculating performance on test data: record 278
+calculating performance on test data: record 279
+calculating performance on test data: record 280
+calculating performance on test data: record 281
+calculating performance on test data: record 282
+calculating performance on test data: record 283
+calculating performance on test data: record 284
+calculating performance on test data: record 285
+calculating performance on test data: record 286
+calculating performance on test data: record 287
+calculating performance on test data: record 288
+calculating performance on test data: record 289
+calculating performance on test data: record 290
+calculating performance on test data: record 291
+calculating performance on test data: record 292
+calculating performance on test data: record 293
+calculating performance on test data: record 294
+calculating performance on test data: record 295
+calculating performance on test data: record 296
+calculating performance on test data: record 297
+calculating performance on test data: record 298
+calculating performance on test data: record 299
+calculating performance on test data: record 300
+overall accuracy on test set is 85 per cent
+
+confusion matrix
+               predicted class
+actual class 1 (value=true):  43  5 
+actual class 2 (value=false):  4  8 

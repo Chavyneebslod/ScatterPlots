@@ -1,0 +1,68 @@
+Cover before Experimental shit: 120
+Cover after Experimental shit: 120
+Cover 120
+144
+class true 96 0.666667
+class false 48 0.333333
+true 1 1 0.322917
+true 1 2 0.677083
+true 2 1 0.9375
+true 2 2 0.0625
+true 3 1 0.927083
+true 3 2 0.0729167
+true 4 1 0.322917
+true 4 2 0.677083
+true 5 1 1
+true 5 2 0
+false 1 1 0.916667
+false 1 2 0.0833333
+false 2 1 0.5
+false 2 2 0.5
+false 3 1 0.145833
+false 3 2 0.854167
+false 4 1 0.979167
+false 4 2 0.0208333
+false 5 1 0
+false 5 2 1
+calculating performance on test data: record 145
+calculating performance on test data: record 146
+calculating performance on test data: record 147
+calculating performance on test data: record 148
+calculating performance on test data: record 149
+calculating performance on test data: record 150
+calculating performance on test data: record 151
+calculating performance on test data: record 152
+calculating performance on test data: record 153
+calculating performance on test data: record 154
+calculating performance on test data: record 155
+calculating performance on test data: record 156
+calculating performance on test data: record 157
+calculating performance on test data: record 158
+calculating performance on test data: record 159
+calculating performance on test data: record 160
+calculating performance on test data: record 161
+calculating performance on test data: record 162
+calculating performance on test data: record 163
+calculating performance on test data: record 164
+calculating performance on test data: record 165
+calculating performance on test data: record 166
+calculating performance on test data: record 167
+calculating performance on test data: record 168
+calculating performance on test data: record 169
+calculating performance on test data: record 170
+calculating performance on test data: record 171
+calculating performance on test data: record 172
+calculating performance on test data: record 173
+calculating performance on test data: record 174
+calculating performance on test data: record 175
+calculating performance on test data: record 176
+calculating performance on test data: record 177
+calculating performance on test data: record 178
+calculating performance on test data: record 179
+calculating performance on test data: record 180
+overall accuracy on test set is 100 per cent
+
+confusion matrix
+               predicted class
+actual class 1 (value=true):  24  0 
+actual class 2 (value=false):  0  12 

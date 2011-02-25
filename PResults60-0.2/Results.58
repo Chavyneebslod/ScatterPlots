@@ -1,0 +1,56 @@
+Cover before Experimental shit: 60
+Cover after Experimental shit: 60
+Cover 60
+96
+class true 48 0.5
+class false 48 0.5
+true 1 1 0.416667
+true 1 2 0.583333
+true 2 1 1
+true 2 2 0
+true 3 1 1
+true 3 2 0
+true 4 1 0.458333
+true 4 2 0.541667
+true 5 1 0.729167
+true 5 2 0.270833
+false 1 1 0.979167
+false 1 2 0.0208333
+false 2 1 0.875
+false 2 2 0.125
+false 3 1 0.354167
+false 3 2 0.645833
+false 4 1 1
+false 4 2 0
+false 5 1 0
+false 5 2 1
+calculating performance on test data: record 97
+calculating performance on test data: record 98
+calculating performance on test data: record 99
+calculating performance on test data: record 100
+calculating performance on test data: record 101
+calculating performance on test data: record 102
+calculating performance on test data: record 103
+calculating performance on test data: record 104
+calculating performance on test data: record 105
+calculating performance on test data: record 106
+calculating performance on test data: record 107
+calculating performance on test data: record 108
+calculating performance on test data: record 109
+calculating performance on test data: record 110
+calculating performance on test data: record 111
+calculating performance on test data: record 112
+calculating performance on test data: record 113
+calculating performance on test data: record 114
+calculating performance on test data: record 115
+calculating performance on test data: record 116
+calculating performance on test data: record 117
+calculating performance on test data: record 118
+calculating performance on test data: record 119
+calculating performance on test data: record 120
+overall accuracy on test set is 91.6667 per cent
+
+confusion matrix
+               predicted class
+actual class 1 (value=true):  12  0 
+actual class 2 (value=false):  2  10 

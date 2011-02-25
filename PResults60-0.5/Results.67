@@ -1,0 +1,116 @@
+Cover before Experimental shit: 360
+Cover after Experimental shit: 360
+Cover 360
+336
+class true 288 0.857143
+class false 48 0.142857
+true 1 1 0.388889
+true 1 2 0.611111
+true 2 1 0.979167
+true 2 2 0.0208333
+true 3 1 0.368056
+true 3 2 0.631944
+true 4 1 0.9375
+true 4 2 0.0625
+true 5 1 0.996528
+true 5 2 0.00347222
+false 1 1 0.666667
+false 1 2 0.333333
+false 2 1 0.979167
+false 2 2 0.0208333
+false 3 1 0.229167
+false 3 2 0.770833
+false 4 1 0.9375
+false 4 2 0.0625
+false 5 1 0
+false 5 2 1
+calculating performance on test data: record 337
+calculating performance on test data: record 338
+calculating performance on test data: record 339
+calculating performance on test data: record 340
+calculating performance on test data: record 341
+calculating performance on test data: record 342
+calculating performance on test data: record 343
+calculating performance on test data: record 344
+calculating performance on test data: record 345
+calculating performance on test data: record 346
+calculating performance on test data: record 347
+calculating performance on test data: record 348
+calculating performance on test data: record 349
+calculating performance on test data: record 350
+calculating performance on test data: record 351
+calculating performance on test data: record 352
+calculating performance on test data: record 353
+calculating performance on test data: record 354
+calculating performance on test data: record 355
+calculating performance on test data: record 356
+calculating performance on test data: record 357
+calculating performance on test data: record 358
+calculating performance on test data: record 359
+calculating performance on test data: record 360
+calculating performance on test data: record 361
+calculating performance on test data: record 362
+calculating performance on test data: record 363
+calculating performance on test data: record 364
+calculating performance on test data: record 365
+calculating performance on test data: record 366
+calculating performance on test data: record 367
+calculating performance on test data: record 368
+calculating performance on test data: record 369
+calculating performance on test data: record 370
+calculating performance on test data: record 371
+calculating performance on test data: record 372
+calculating performance on test data: record 373
+calculating performance on test data: record 374
+calculating performance on test data: record 375
+calculating performance on test data: record 376
+calculating performance on test data: record 377
+calculating performance on test data: record 378
+calculating performance on test data: record 379
+calculating performance on test data: record 380
+calculating performance on test data: record 381
+calculating performance on test data: record 382
+calculating performance on test data: record 383
+calculating performance on test data: record 384
+calculating performance on test data: record 385
+calculating performance on test data: record 386
+calculating performance on test data: record 387
+calculating performance on test data: record 388
+calculating performance on test data: record 389
+calculating performance on test data: record 390
+calculating performance on test data: record 391
+calculating performance on test data: record 392
+calculating performance on test data: record 393
+calculating performance on test data: record 394
+calculating performance on test data: record 395
+calculating performance on test data: record 396
+calculating performance on test data: record 397
+calculating performance on test data: record 398
+calculating performance on test data: record 399
+calculating performance on test data: record 400
+calculating performance on test data: record 401
+calculating performance on test data: record 402
+calculating performance on test data: record 403
+calculating performance on test data: record 404
+calculating performance on test data: record 405
+calculating performance on test data: record 406
+calculating performance on test data: record 407
+calculating performance on test data: record 408
+calculating performance on test data: record 409
+calculating performance on test data: record 410
+calculating performance on test data: record 411
+calculating performance on test data: record 412
+calculating performance on test data: record 413
+calculating performance on test data: record 414
+calculating performance on test data: record 415
+calculating performance on test data: record 416
+calculating performance on test data: record 417
+calculating performance on test data: record 418
+calculating performance on test data: record 419
+calculating performance on test data: record 420
+overall accuracy on test set is 100 per cent
+
+confusion matrix
+               predicted class
+actual class 1 (value=true):  72  0 
+actual class 2 (value=false):  0  12 
